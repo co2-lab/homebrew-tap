@@ -8,7 +8,7 @@ cask "polvo" do
   homepage "https://github.com/co2-lab/polvo"
 
   app "Polvo.app"
-  binary "#{appdir}/Polvo.app/Contents/MacOS/polvo"
+  binary "#{appdir}/Polvo.app/Contents/MacOS/app", target: "polvo"
 
   zap trash: [
     "~/.config/polvo",
