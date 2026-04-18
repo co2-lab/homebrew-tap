@@ -1,8 +1,8 @@
 cask "polvo" do
-  version "0.3.4"
-  sha256 "78eefb2cc94fd26661f663bc026172991c556d16810de3c6c923d6976df90d71"
+  version "0.3.5"
+  sha256 "43a06ed9305473aabd640f9150306b00d738e0f48f10c45359e43381293b29d6"
 
-  url "https://github.com/co2-lab/Polvo/releases/download/v0.3.4/Polvo_0.3.4_universal.dmg"
+  url "https://github.com/co2-lab/Polvo/releases/download/v0.3.5/Polvo_0.3.5_universal.dmg"
   name "Polvo"
   desc "AI agent orchestrator for spec-first projects"
   homepage "https://github.com/co2-lab/polvo"
